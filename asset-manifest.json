@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/textChef/static/css/main.dc4d6ff2.css",
+    "main.js": "/textChef/static/js/main.80961bfd.js",
+    "static/js/453.bb83d1b5.chunk.js": "/textChef/static/js/453.bb83d1b5.chunk.js",
+    "index.html": "/textChef/index.html",
+    "main.dc4d6ff2.css.map": "/textChef/static/css/main.dc4d6ff2.css.map",
+    "main.80961bfd.js.map": "/textChef/static/js/main.80961bfd.js.map",
+    "453.bb83d1b5.chunk.js.map": "/textChef/static/js/453.bb83d1b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.80961bfd.js"
+  ]
+}
