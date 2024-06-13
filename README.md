@@ -6,7 +6,7 @@ TextChef is a simple text manipulation tool built using React. It allows users t
 - [Features](#features)
 - [Usage](#usage)
 - [Demo](#Demo)
-- [Source Code](#Source Code)
+- [Source Code](#SourceCode)
 - [Website](#Website)
 
 ## Features
