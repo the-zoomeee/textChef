@@ -35,7 +35,7 @@ TextChef is a simple text manipulation tool built using React. It allows users t
 #### Contact Us
 ![textChefContact Us](https://github.com/the-zoomeee/Text-manipulation-app-using-react/assets/154297263/73eeb699-8792-487e-8298-06272c73c7b5)
 
-## Source Code
+## SourceCode
 
 > [!Tip]
 > 🌐 **[TextChef Code](https://github.com/the-zoomeee/Text-manipulation-app-using-react)** 🌐
