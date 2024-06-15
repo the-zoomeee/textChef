@@ -20,7 +20,6 @@ TextChef is a simple text manipulation tool built using React. It allows users t
 - **Dark Mode**: Toggle between light and dark modes.
 
 ## Usage
-- Open your browser and navigate to `http://localhost:3000`.
 - Use the navigation bar to switch between Home, About, and Contact pages.
 - Type or paste your text into the text area on the Home page and use the provided buttons to manipulate the text.
 - Toggle between light and dark modes using the switch in the navigation bar.
